@@ -1,13 +1,15 @@
 # odin-recipes
 # 🍳 Odin Recipes
 
-This is my first project from **The Odin Project**, built using basic **HTML** concepts.  
+This is my first project from **The Odin Project**, built using basic **HTML and CSS** concepts.  
 It’s a simple recipe website that displays different food recipes with links, images, and steps to prepare each meal.
 
 ---
 
 ## 🛠️ Tools Used
 - **HTML5**
+- **CSS3**
+
 
 ---
 
